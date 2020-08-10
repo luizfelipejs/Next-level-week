@@ -1,0 +1,119 @@
+.profile-description {
+    width: 736px;
+    left: 339px;
+    height: 100%;
+    top: 409px;
+    background: #FFFFFF;
+    border: 1px solid #E6E6F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 15px;
+    
+}
+.profy-photo {
+    position: relative;
+    width: 80px;
+    border-radius: 100px;
+    left: 15px;
+}
+.avatar {
+    left: 27.76%;
+    right: 53.54%;
+    top: 24.86%;
+    bottom: 70.63%;
+}
+.avatar h1.title-profy {
+    width: 194px;
+    position: relative;
+    height: 25px;
+    left: 120px;
+    top: -90px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    color: #32264D;
+}
+.subject {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    position: relative;
+    left: 118px;
+    top: -100.5px;
+    width: 68px;
+    height: 26px;
+    line-height: 26px;
+    color: #6A6180;
+}
+p.bio-profy {
+    position: relative;
+    width: 616px;
+    word-break: break-all;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6A6180;
+    left: 10px;
+    top: -35.5px;
+    min-height: 100px;
+    max-height: 600px;
+}
+
+.price-profy {
+    width: 79px;
+    position: relative;
+    height: 20px;
+    top: -70px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9C98A6;
+}
+.down h2 {
+    position: relative;
+    width: 82px;
+    left: 86px;
+    top: -111px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 26px;
+    color: #8257E5;
+}
+.whatsapp {
+    position: relative;
+    background: #04D361;
+    border-radius: 8px;
+    width: 250px;
+    height: 56px;
+    display: flex;
+    border: none;
+    font-size: 16px;
+    color: #fff;
+    width: 184px;
+    top: -170.5px;
+    left: 506px;
+    text-decoration: none;
+    padding-top: 10px;
+    justify-content: center;
+}
+.whatsapp img {
+    position: relative;
+    right: 9px;
+    top: -2px;
+}
+.whatsapp span {
+    font-weight: bold;
+    top: 15px;
+    position: relative;
+}
+.down {
+    margin: 0;
+    height: 80px;
+    padding: 0;
+    position: relative;
+    top: 89px;
+}

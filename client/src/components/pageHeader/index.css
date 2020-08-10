@@ -1,0 +1,37 @@
+.header-profy {
+    position: absolute;
+    width: calc(100% - 20px);
+    height: 272px;
+    left: 0px;
+    top: 0px;
+    background: #8257E5;
+    padding: 10px
+}
+
+.title-profy {
+    color: #fff;
+    position: absolute;
+    width: 373px;
+    height: 160px;
+    top: 45px;
+    left: 350px;
+    
+}
+
+.menu-profy {
+    position: relative;
+    width: 1120px;
+    height: 30.43px;
+    left: 80px;
+    top: 17px;
+
+}
+
+
+#logo-header {
+    width: 79px;
+    position: absolute;
+    top: 35px;
+    left: 1100px;
+
+}

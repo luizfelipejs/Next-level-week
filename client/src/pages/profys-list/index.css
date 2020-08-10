@@ -1,0 +1,55 @@
+.filter {
+    position: absolute;
+    top: 210px;
+    left: 18.5rem;
+    margin: 3px;
+    display: inline-flex;
+
+}
+.filter div label input {
+    display: block;
+    width: 235px;
+    height: 56px;
+    background: #FAFAFC;
+    border: 1px solid #E6E6F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 10px;
+}
+.filter div {
+    display: inline;
+    list-style: none;
+    margin: 13px;
+    color: #D4C2FF;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+/*Profy style*/
+ul.profys {
+    display: grid;
+    margin-top: 350px;
+    grid-template-columns: 1fr;
+    margin-left:  310px;
+}
+ul.profys li {
+    margin: 10px;
+    list-style: none;
+}
+.select-input {
+    width: 240px;
+}
+#buscar {
+    position: absolute;
+    padding-left: 9.5rem;
+    top: 3.7rem;
+    left: 83rem;
+    
+}
+.search-button {
+    position: relative;
+    width: 35px;
+    right: 10.8rem;
+    top: -0.8rem
+}

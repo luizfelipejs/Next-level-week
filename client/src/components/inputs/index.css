@@ -1,0 +1,50 @@
+
+.input-block label input, select {
+    width: 608px;
+    height: 56px;
+    left: 357px;
+    top: 472px;
+    
+    background: #FAFAFC;
+
+    border: 1px solid #E6E6F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+.input-block {
+    position: relative;
+    left: 25px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #9C98A6;
+    
+}
+.input-block label span {
+    font-size: 12px;
+    line-height: 20px;
+    color: #C1BCCC;
+}
+
+.input-block label input, textarea, select{
+    display: block;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Roboto';
+}
+.input-block label textarea{
+    width: 608px;
+    height: 168px;
+    left: 357px;
+    top: 807px;
+    resize: none;
+
+
+    background: #FAFAFC;
+
+    border: 1px solid #E6E6F0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}

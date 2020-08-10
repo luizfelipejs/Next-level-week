@@ -1,0 +1,22 @@
+.whatsapp-profy {
+    font-weight: 600;
+} 
+.whatsapp-profy main {
+    position: relative;
+    margin: auto;
+    top: 15rem;
+    background: #fff;
+    border-radius: 8px;
+    width: 50rem;
+    height: 20rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 10rem;
+    border: 1px solid #cece;
+
+}
+.text-whatsapp {
+    color: rgb(67, 231, 61);
+    display: block
+}
