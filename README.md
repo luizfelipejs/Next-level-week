@@ -1,5 +1,4 @@
 <div align='center'>
-<img src="./.github/proffy.png" width='250'>
 
 ---
 
